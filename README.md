@@ -7,4 +7,6 @@ JSF pages mapped as html, and links given like login.html .
 
 But internally JSF works as usual.
 
+Use login with any user & pass .:)
+
 Download test and enjoy!
